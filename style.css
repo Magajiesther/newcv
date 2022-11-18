@@ -1,0 +1,90 @@
+body{
+    background-color:lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+    /*Adress section*/
+    #address{
+        padding-top: 40px;
+        text-align:center ;
+    }
+
+    h1{
+        margin-bottom: 0%; 
+    }
+
+    #about_me{
+        width:80.9%;
+        background-color: rgb(240, 240, 183);
+        height:auto;
+        margin: 0 10%;
+    }
+    .about_left{
+        width:30%;
+        float:left;
+        padding:10px 20px 0 15px;
+    }
+    .about_right{
+        width:50%;
+        display:inline-block;
+        line-height: 2rem;
+        padding: 0 0 15%;
+    }
+    #skills{
+        width:80%;
+        background-color:aliceblue;
+        height:auto;
+        line-height:2rem;
+        padding-top: 5px;
+        padding-bottom:10px;
+        padding-left:10px; 
+        margin:  0 10%;
+    }
+    #CV{
+        width:80%;
+        background-color: rgb(240, 240, 183);
+        line-height:2rem;
+        padding-top: 5px;
+        padding-bottom:10px;
+        padding-left :10px;
+        margin: 0 10%;
+        
+    }
+
+    #hobbies{
+        width:80%;
+        background-color:aliceblue;
+        height:auto;
+        padding-top: 5px;
+        padding-bottom:10px;
+        padding-left:10px;  
+        margin:  0 10%;
+    }
+
+    #contact{
+            width:80%;
+            background-color:rgb(240, 240, 183);
+            height:auto;
+            line-height:2rem;
+            padding-top: 5px;
+            padding-bottom:10px;
+            padding-left:10px;  
+            margin:  0 10%;
+        }
+        input[type=text],input[type=textarea],input[type=email]{
+            border-radius: 5px;
+            border:none;
+            padding:10px;
+            width:50%;
+        }
+        input[type=submit]{
+            background-color:aliceblue;
+            padding:10PX;
+            border-radius:5px;
+            color:none;
+            border:none;
+        }
+        
+
+    
+       
